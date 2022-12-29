@@ -1,0 +1,44 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Gear Res",
+        "price": "$20.99",
+        "img": "https://i.ibb.co/dbmDFw8/pexels-pixabay-221045.jpg"
+   
+      }, 
+       {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ggg",
+        "name": "Manual Res",
+        "price": "$11.99",
+        "img": "https://i.ibb.co/g4cj5PM/pexels-pixabay-210881.jpg"
+   
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6rlr",
+        "name": "Silver Nut",
+        "price": "$9.99",
+        "img": "https://i.ibb.co/27k4FFs/pexels-pixabay-162601.jpg"
+   
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6qpq",
+        "name": "Zebra succulent",
+        "price": "$6.99",
+        "img": "https://i.ibb.co/dbmDFw8/pexels-pixabay-221045.jpg"
+   
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6yLl",
+        "name": "Nut Set",
+        "price": "$8.99",
+        "img": "https://i.ibb.co/ZTJGh2m/pexels-nic-wood-6199107.jpg"
+   
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6LdL",
+        "name": "Ring Set",
+        "price": "$5.99",
+        "img": "https://i.ibb.co/jwk8rfm/pexels-pixabay-207483.jpg"
+   
+      }
+]
