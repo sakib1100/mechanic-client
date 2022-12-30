@@ -9,7 +9,7 @@ const Product = ({pd}) => {
 
 const handleAddToProduct = () => {
 
-  fetch('http://localhost:5000/dataInsert', {
+  fetch('https://mechanic-server-three.vercel.app/dataInsert', {
     method: 'POST',
     body: JSON.stringify({
    name,price, img

@@ -4,7 +4,7 @@ import Order from './Order';
 const OrderList = () => {
   const [data,setData] = useState([]);
   useEffect(() => {
-    fetch('http://localhost:5000/GetData')
+    fetch('https://mechanic-server-three.vercel.app/GetData')
   .then((response) => response.json())
   .then((json) => setData(json));
   },[])

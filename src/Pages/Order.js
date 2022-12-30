@@ -10,7 +10,7 @@ const handleDelete = id => {
   const proceed = window.confirm('Are you sure want to delete this product?');
   if(proceed){
 	console.log('deleting user white id', id);
-	const url  = `http://localhost:5000/GetData/${id}`;
+	const url  = `https://mechanic-server-three.vercel.app/GetData/${id}`;
 	fetch(url,{
 	   method : 'DELETE'
 	})
