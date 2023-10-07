@@ -30,9 +30,9 @@ signInWithEmailAndPassword(email,password);
 
 }
     return (
-        <div>
+        <div className='bg-white py-20'>
             
-            <form onSubmit={handleOnSubmit} className='w-96 max-sm:w-80 border p-10 mx-auto rounded-lg shadow-lg mt-20'>
+            <form onSubmit={handleOnSubmit} className='w-96 max-sm:w-80 border  p-10 mx-auto mb-10 rounded-lg shadow-lg mt-20'>
                 <h1 className='text-3xl mb-4 text-center font-bold'>Login</h1>
         <div class="form-group">
           <label for="exampleInputEmail1">Email address</label>

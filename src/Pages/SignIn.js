@@ -31,7 +31,7 @@ createUserWithEmailAndPassword(email,password)
 }
 
     return (
-        <div>
+        <div className='py-20'>
              
              <form onSubmit={handleOnSubmit} className='w-96 max-sm:w-80 border p-10 mx-auto rounded-lg shadow-lg mt-20'>
                 <h1 className='text-3xl mb-4 text-center font-bold'>Sign In</h1>
